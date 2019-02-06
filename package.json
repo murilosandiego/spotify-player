@@ -1,7 +1,7 @@
 {
-  "name": "spotify-node-player",
+  "name": "spotify-player",
   "version": "1.0.0",
-  "description": "JS com TDD na prática",
+  "description": "Player uses spotify-node-js",
   "main": "index.js",
   "scripts": {
     "lint": "standard",
